@@ -1,3 +1,5 @@
+![My GIF](img.gif)
+
 # 💫 About Me:
 
 I'm Pham Van Hieu from Vietnam. <br>Hello, I'm Pham Van Hieu, aspiring to be a Fullstack Developer. <br>I'm a student at BTEC FPT studying Computer Programming.<br>I use most of Java, Nodejs ...<br>And some of popular framework like Spring Restful API, ReactJS ...
