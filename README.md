@@ -22,6 +22,12 @@ I'm Pham Van Hieu from Vietnam. <br>Hello, I'm Pham Van Hieu, aspiring to be a F
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phvhieeus/phvhieeus/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phvhieeus/phvhieeus/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phvhieeus/phvhieeus/output/github-snake.svg" />
+</picture>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=phvhieeus&icon=0&color=0)](https://visitcount.itsvg.in)
